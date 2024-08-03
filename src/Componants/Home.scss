@@ -1,0 +1,30 @@
+@mixin txtcenter{
+    text-align: center;
+}
+.home{
+   > h2{
+       @include txtcenter;
+        margin-top: 5rem;
+        font-weight: 600;
+    }
+    .banner{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       > img{
+            height: 300px;
+            padding: 1rem;
+        }
+    }
+    h3{
+        @include txtcenter;
+        font-size: 1.3rem
+    }
+    h4{
+        padding: 2em;
+        font-weight:500;
+        text-align: justify;
+        line-height: 1.5;
+    }
+}
+     

@@ -1,0 +1,44 @@
+@mixin flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hero{
+    width: 100%;
+    height: 100vh;
+    h2{
+        text-align: center;
+    }
+    .row{
+        width: 100%;
+        height: 100%;
+        @include flex;
+        padding: 1rem;
+        margin-top: -3rem;
+        background: transparent;
+        .java{
+            width: 100%;
+            height: 20vh;
+            box-shadow: 1px 1px 10px grey;
+            padding: .5rem;
+            margin-bottom: 8px;
+            img{
+                width: 100%;
+                height: 100%;
+            }
+        }
+        .ds{
+            width: 100%;
+            height: 30vh;
+            box-shadow: 1px 1px 10px grey;
+            padding: .5rem;
+            margin-bottom: 8px;
+            img{
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    padding: 1rem;
+     h4{
+    margin-bottom: .5rem;
+    text-align: center;
+     }
+    img{
+        width: 100%;
+    }
+    .myntra{
+        margin-bottom: 1rem;
+    }
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        gap: 1rem;
+        a{
+            text-decoration: none;
+            background: rgb(237, 104, 55);
+            color: white;
+            padding: 10px 20px ;
+            border-radius: 5px;
+            letter-spacing: 1.2px;
+        }
+      }
+    }
+   

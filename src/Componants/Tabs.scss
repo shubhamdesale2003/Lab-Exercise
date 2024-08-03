@@ -1,0 +1,24 @@
+.tabs-img{
+    width: 100%;
+    padding: 1rem;
+    >img{
+        width: 100%;
+        padding: 20px;
+        box-shadow: 0 0 5px rgb(50, 50, 49),inset 0 0 10px rgb(32, 95, 255);
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width:700px) {
+    .tabs-img{
+        width: 100%;
+        padding: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        >img{
+            width: 100%;
+           
+        }
+    }
+}
