@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Lab-Exercise/static/css/main.093a707d.css",
-    "main.js": "/Lab-Exercise/static/js/main.62000d9e.js",
+    "main.css": "/Lab-Exercise/static/css/main.deb654c8.css",
+    "main.js": "/Lab-Exercise/static/js/main.059111f7.js",
     "static/media/banner1.png": "/Lab-Exercise/static/media/banner1.b40fc7b298a5445c5867.png",
     "static/media/banner4.png": "/Lab-Exercise/static/media/banner4.f7ccb109604d55cae6c5.png",
     "static/media/banner2.png": "/Lab-Exercise/static/media/banner2.0dcaf87a4fd1638fc938.png",
@@ -9,6 +9,7 @@
     "static/media/banner3.png": "/Lab-Exercise/static/media/banner3.903feb3c7852a5181613.png",
     "static/media/Ecom.zip": "/Lab-Exercise/static/media/Ecom.ec4a67bf70dc9d630f13.zip",
     "static/media/banner5.png": "/Lab-Exercise/static/media/banner5.759a3306628f28e5bca6.png",
+    "static/media/project2.png": "/Lab-Exercise/static/media/project2.0e9ea1dbc49a8d2cefb3.png",
     "static/media/catalog.zip": "/Lab-Exercise/static/media/catalog.00f266a4f2148de071fd.zip",
     "static/media/LOGO.png": "/Lab-Exercise/static/media/LOGO.95cce9b4a1bebcf5e8a0.png",
     "static/media/7.png": "/Lab-Exercise/static/media/7.7c607162b00f3ee724ee.png",
@@ -56,11 +57,11 @@
     "static/media/footerImg.svg": "/Lab-Exercise/static/media/footerImg.a1c19ffd31dd694d1fcbfd3b13b54855.svg",
     "static/media/11c.png": "/Lab-Exercise/static/media/11c.4d6f221718f51a16b5ec.png",
     "index.html": "/Lab-Exercise/index.html",
-    "main.093a707d.css.map": "/Lab-Exercise/static/css/main.093a707d.css.map",
-    "main.62000d9e.js.map": "/Lab-Exercise/static/js/main.62000d9e.js.map"
+    "main.deb654c8.css.map": "/Lab-Exercise/static/css/main.deb654c8.css.map",
+    "main.059111f7.js.map": "/Lab-Exercise/static/js/main.059111f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.093a707d.css",
-    "static/js/main.62000d9e.js"
+    "static/css/main.deb654c8.css",
+    "static/js/main.059111f7.js"
   ]
 }
