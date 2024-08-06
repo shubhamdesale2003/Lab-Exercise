@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Lab-Exercise/static/css/main.deb654c8.css",
-    "main.js": "/Lab-Exercise/static/js/main.059111f7.js",
+    "main.css": "/Lab-Exercise/static/css/main.d89dbe7a.css",
+    "main.js": "/Lab-Exercise/static/js/main.94079f18.js",
     "static/media/banner1.png": "/Lab-Exercise/static/media/banner1.b40fc7b298a5445c5867.png",
     "static/media/banner4.png": "/Lab-Exercise/static/media/banner4.f7ccb109604d55cae6c5.png",
     "static/media/banner2.png": "/Lab-Exercise/static/media/banner2.0dcaf87a4fd1638fc938.png",
@@ -57,11 +57,11 @@
     "static/media/footerImg.svg": "/Lab-Exercise/static/media/footerImg.a1c19ffd31dd694d1fcbfd3b13b54855.svg",
     "static/media/11c.png": "/Lab-Exercise/static/media/11c.4d6f221718f51a16b5ec.png",
     "index.html": "/Lab-Exercise/index.html",
-    "main.deb654c8.css.map": "/Lab-Exercise/static/css/main.deb654c8.css.map",
-    "main.059111f7.js.map": "/Lab-Exercise/static/js/main.059111f7.js.map"
+    "main.d89dbe7a.css.map": "/Lab-Exercise/static/css/main.d89dbe7a.css.map",
+    "main.94079f18.js.map": "/Lab-Exercise/static/js/main.94079f18.js.map"
   },
   "entrypoints": [
-    "static/css/main.deb654c8.css",
-    "static/js/main.059111f7.js"
+    "static/css/main.d89dbe7a.css",
+    "static/js/main.94079f18.js"
   ]
 }
