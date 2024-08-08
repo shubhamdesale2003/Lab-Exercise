@@ -10,7 +10,7 @@ const Router = () => {
            <NavLink to="/java">Java</NavLink>
            <NavLink to="/cpp">C++</NavLink>
            <NavLink to="/shell">Shell</NavLink>
-           <NavLink to="/ml">ML</NavLink>
+        //   <NavLink to="/ml">ML</NavLink>
           <NavLink to="/ai">AI</NavLink>
           <NavLink to="/ds">DS</NavLink>
         </div>
